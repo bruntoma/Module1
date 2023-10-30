@@ -1,0 +1,3 @@
+[submodule "Module2"]
+	path = Module2
+	url = git@github.com:bruntoma/Module2.git
